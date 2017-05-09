@@ -1,7 +1,7 @@
 {
 	"name": "sasscompiler",
 	"title": "SASS Compiler",
-	"version": "0.5",
+	"version": 1,
 	"description": "Compile SASS/SCSS files to CSS.",
 	"homepage": "https://kysune.me",
 	"author": "Szymon Lisowiec (https://github.com/SzymonLisowiec/)",
