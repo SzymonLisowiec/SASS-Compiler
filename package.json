@@ -1,0 +1,24 @@
+{
+	"name": "sasscompiler",
+	"title": "SASS Compiler",
+	"version": "0.5",
+	"description": "Compile SASS/SCSS files to CSS.",
+	"homepage": "https://kysune.me",
+	"author": "Szymon Lisowiec (https://github.com/SzymonLisowiec/)",
+	"license": "MIT",
+	"categories": "formatting",
+	"keywords": [
+		"format",
+		"formatting",
+		"convert",
+		"css",
+		"scss",
+		"sass"
+	],
+	"files": [
+		"main.js"
+	],
+	"engines": {
+		"brackets": ">=0.30.0"
+	}
+}
